@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @AzuUmy
+- 👋 Hi, I’m Carlos Samuel
 - 👀 I’m interested in ... CODDING AND DESIGN
-- 🌱 I’m currently learning ... JavaScript, Java, NodeJS, ReactJS, Hibernate, Maven, Switft ui.
-- 📫 How to reach me ... carlos_pherbis@hotmail.com
+- 🌱 I’m currently learning ... VUE - Javascript, Node.js, firebase, MongoD, Electron, JAVA
+- 📫 How to reach me ... carlos_contatoprofissional@outlook.com
 <!---
 AzuUmy/AzuUmy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
